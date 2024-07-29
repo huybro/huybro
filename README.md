@@ -3,7 +3,7 @@
 <h3 align="center">A passionate student studing at Umass Amherst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=huybro&label=Profile%20views&color=0e75b6&style=flat" alt="huybro" />
 </p>
 
 <h2 align="left">About Me</h2>
