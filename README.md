@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Huy Cao</h1>
 
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h3 align="center">A passionate student studing at Umass Amherst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
