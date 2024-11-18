@@ -9,7 +9,7 @@
 <h2 align="left">About Me</h2>
 
 - 🚀 Crafting code and solving problems since 2022
-- 🧠 Currently diving into the worlds of AI/ML and distributed systems
+- 🧠 Currently diving into the worlds of AI/ML and databases
 - 🤝 Keen to collaborate on AI/ML projects that push boundaries
 - 🎯 2024 Goal: Land an exciting summer internship to apply and expand my skills
 - 💡 Ask me about web development and database management - I love discussing these!
