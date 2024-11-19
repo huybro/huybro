@@ -49,6 +49,5 @@
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-  <a href="your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="your-twitter-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+  <a href="your-linkedin-url" target="blank"><img align="center" src="https://www.linkedin.com/in/huycao04/" alt="your-linkedin" height="30" width="40" /></a>
 </p>
